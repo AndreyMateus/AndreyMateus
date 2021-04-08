@@ -1,12 +1,18 @@
 ### Bom dia Senhores ! 👷 ( Em manutenção ) 👷 ###
         GRUPAMENTO ATENÇÃO!!!
-            GRUPAMENTO SEEEEENTIDO!!!
 
-            <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480">
+           # GRUPAMENTO SEEEEENTIDO!!!
 
-          <p>Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", comi o pão que o diabo amassou, mas enfim.. agora que já temos intimade o suficiente para você confiar sua vida em mim no campo de batalha, Vou lhe dizer com oque e como pretendo te ajudar !!!</p>
+            <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />
 
-            <p>Se você está aqui provavelmente você é estudante ou novato na área de programação, caso não seja uma dessas opções você é um curioso, Assim como você eu sou estudante da área de programação, porém, entretanto, todavia, possuo experiência e sei como é quando iniciamos, Confuso... </p>
+          Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
+          Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", 
+          comi o pão que o diabo amassou, mas enfim.. agora que já temos intimade o suficiente para você confiar sua 
+          vida a mim no campo de batalha, Vou lhe dizer com oque e como pretendo te ajudar !!!
+
+            <p>Se você está aqui provavelmente você é estudante ou novato na área de programação, caso não seja uma dessas opções você é um curioso,
+             Assim como você eu sou estudante da área de programação, porém, entretanto, todavia,
+              possuo experiência e sei como é quando iniciamos, Confuso... 
 
             Geralmente as dificuldades e dúvidas são:
 
@@ -34,11 +40,11 @@
 
                             E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU É O DIFERENTÃO ? HÃÃÃ?
 
-                            <p>Eu escutei muito a seguinte frase</p>
+                            Eu escutei muito a seguinte frase
                                 Senhores!!!, Quem não tem dúvidas tem dívidas.
 
 
 
-          <p>EXECELENTE !!! chegou até aqui, então vamos continuar...</p>
+       EXECELENTE !!! chegou até aqui, então vamos continuar...
 
 
