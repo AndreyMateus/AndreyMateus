@@ -1,6 +1,7 @@
-### Bom dia Senhores ! 👷 ( Em manutenção ) 👷
-     <p>GRUPAMENTO ATENÇÃO!!!</p> 
-        <P>GRUPAMENTO SEEEEENTIDO!!!</P>
+### Bom dia Senhores ! 👷 ( Em manutenção ) 👷 ###
+        GRUPAMENTO ATENÇÃO!!!
+            GRUPAMENTO SEEEEENTIDO!!!
+
             <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480">
 
           <p>Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", comi o pão que o diabo amassou, mas enfim.. agora que já temos intimade o suficiente para você confiar sua vida em mim no campo de batalha, Vou lhe dizer com oque e como pretendo te ajudar !!!</p>
@@ -39,6 +40,5 @@
 
 
           <p>EXECELENTE !!! chegou até aqui, então vamos continuar...</p>
-
 
 
