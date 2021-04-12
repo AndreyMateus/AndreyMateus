@@ -7,7 +7,7 @@
 
           Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
           Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", 
-          comi o pão que o diabo amassou, mas enfim... agora que já temos intimade o suficiente para você confiar sua 
+          mas enfim... agora que já temos intimade o suficiente para você confiar sua 
           vida a mim no campo de batalha, Vou lhe dizer com oque e como pretendo te ajudar !!!
 
             Se você está aqui provavelmente você é estudante ou novato na área de programação, 
