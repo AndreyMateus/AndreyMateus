@@ -47,6 +47,5 @@
 
              EXECELENTE !!! chegou até aqui, então vamos continuar...
 
-<img src="Objetos\Galinhas.gif" width="384" height="480"> 
 <img src="Objetos\Quase.gif" width="480" height="365">
 <img src="Objetos\GatoReading.gif" width="480" height="270">
