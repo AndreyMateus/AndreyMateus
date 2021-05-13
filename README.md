@@ -6,7 +6,7 @@
 <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" /> <!-- Gif Motivando o pelotão-->
 
         Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
-        Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti...  
+        Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
         Programação para ser mais específico, assim como você !!!, 
         mas enfim... agora que já temos intimade o suficiente para você confiar sua 
         vida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
@@ -51,8 +51,8 @@
             
        
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
-            ganham um sentimento de mérito e gratidão consigo mesma,
-            idependente do tipo de ajuda, bom... então se você estava se perguntando o porque de eu ajudar você,
+            ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
+            bom... então se você estava se perguntando o porque de eu ajudar você,
             é porque eu simplismente me sinto feliz em fazer isso,
             eu adoro aprender com exemplos engraçados, gosto de me divertir aprendendo, você consegue me entender?..., 
             o foco dos meus exemplos serão 100% em Português-BR,
@@ -61,8 +61,8 @@
             bom qualquer dúvida fique à vontade para esrever uma "Issue" e enviar para mim,
             é importante ressaltar que no ínicio é normal errarmos, eu mesmo erro até hoje !!!,
             então... não se decepcione quando algo não der certo,
-            o segredo para conseguir é, a gânancia de ver o resultado/evolução, e a persistência de nunca desistir, 
-            ai vai uma dica, sempre quando pensar em desistir, pense no futuro que você deseja ter, e oque está faltando para alcança-lo,
+            o segredo para conseguir é a gânancia de ver o resultado/evolução, e a persistência de nunca desistir, 
+            ai vai uma dica, sempre quando pensar em desistir, pense no futuro que você deseja ter,
             vai mesmo deixar uma decepção boba dessa acabar com um futuro tão brilhante ?,
             o limite é apenas um substantivo, cabe a você entender isso.
             
