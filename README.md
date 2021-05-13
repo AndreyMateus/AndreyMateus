@@ -6,7 +6,7 @@
    <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
  
- <span style="font-family:Papyrus; font-size:5em;">
+ <span style="font-family:Papyrus; font-size:8em;">
   
    Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
    Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
@@ -61,6 +61,8 @@
 
    Qual a diferença entre por uma imagem  em uma tag <img> ou transformá-la em uma classe no css ?
    
+   R:
+   
 </span><br>
 
    **E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ?**
@@ -75,7 +77,7 @@
     <img src="Objetos\GatoReading.gif" width="480" height="280" > <!-- Gif Gato Lendo -->
   </p>     
 
- <span style="font-family:Papyrus; font-size:5em;">
+ <span style="font-family:Papyrus; font-size:8em;">
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
             bom... então se você estava se perguntando o porque de eu ajudar você,
@@ -89,8 +91,8 @@
             então... não se decepcione quando algo não der certo,
             o segredo para conseguir é a gânancia de ver o resultado/evolução, e a persistência de nunca desistir, 
             ai vai uma dica, sempre quando pensar em desistir, pense no futuro que você deseja ter,
-            vai mesmo deixar uma decepção boba dessa acabar com um futuro tão brilhante ?,
-            o limite é apenas um substantivo, cabe a você entender isso.
+            vai mesmo deixar uma decepção boba acabar com um futuro tão brilhante ?,
+            o limite é apenas um substantivo ( palavra ), cabe a você entender isso.
 </span>
 <p></p>
 
