@@ -2,9 +2,9 @@
 
         GRUPAMENTO ATENÇÃO!!!
              GRUPAMENTO SEEEEENTIDO!!!
-
- <center><img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" /> </center> <!-- Gif Motivando o pelotão-->
-
+ <p align="center">
+   <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
+ </P>
 
         Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
         Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
@@ -48,9 +48,9 @@
                      
           EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...
           
- 
-  <center><img src="Objetos\GatoReading.gif" width="480" height="280" align="center"></center> <!-- Gif Gato Lendo -->
-         
+  <p align="center">
+    <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
+  </p>     
        
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
@@ -75,9 +75,11 @@
             "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio
 
          
-  
-   <center><img src="Objetos\Quase.gif" width="480" height="365" align="center"> </center>
  
+
+ <p align="center">
+    <img src="Objetos\Quase.gif" width="480" height="365" align="center">
+ </p>
    
             
             BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!
