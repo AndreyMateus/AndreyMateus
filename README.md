@@ -6,10 +6,10 @@
    <img src="Objetos/Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
  
- <span style="font-family:Papyrus; font-size: 16em;">
+ <span style="font-family:Arial; font-size: 16em;">
   
    Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
-   Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
+   Fui Bravo 2019 e servi em uma Unidade onde só tinham Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
    Programação para ser mais específico, assim como você !!!, 
    mas enfim... agora que já temos intimade o suficiente para você confiar sua 
    vida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
