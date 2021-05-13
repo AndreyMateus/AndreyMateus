@@ -49,7 +49,7 @@
 
    Quando tem um elemento dentro de outro se usa Padding ou Margin ?
    
-   R: cada elemento (tag) possui uma área Interna e Externa  individualmente, pense como uma "caixa menor" dentro de uma "caixa maior".
+   R: cada elemento (tag) possui uma área Interna e Externa  individual, pense como uma "caixa menor" dentro de uma "caixa maior".
 
    Porque um div dentro de outra torna o elemento filho diferente ?
    
