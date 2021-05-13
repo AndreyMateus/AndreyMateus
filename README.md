@@ -2,8 +2,9 @@
 
         GRUPAMENTO ATENÇÃO!!!
              GRUPAMENTO SEEEEENTIDO!!!
-
+<div style="text-align:center"> 
 <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" /> <!-- Gif Motivando o pelotão-->
+</div>
 
         Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
         Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
@@ -46,9 +47,10 @@
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
                      
           EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...
-            
+          
+  <div style="text-align:center"> 
    <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
-            
+  </div>            
        
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
@@ -74,9 +76,9 @@
 
          
   
-            
+  <div style="text-align:center">         
    <img src="Objetos\Quase.gif" width="480" height="365" align="center">
-   
+  </div> 
    
             
             BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!
