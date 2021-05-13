@@ -90,7 +90,7 @@
             vai mesmo deixar uma decepção boba dessa acabar com um futuro tão brilhante ?,
             o limite é apenas um substantivo, cabe a você entender isso.
 </span>
-</br>
+<p></p>
 
   > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
             
