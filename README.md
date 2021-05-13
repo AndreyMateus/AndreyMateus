@@ -47,12 +47,13 @@
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
                      
   
-   <span style="font-family:Papyrus; font-size:4em;"> EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...</span>     
+   <span style="font-family:Papyrus; font-size:4em;"> EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...</span>    
+   
   <p align="center">
-    <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
+    <img src="Objetos\GatoReading.gif" width="480" height="280" > <!-- Gif Gato Lendo -->
   </p>     
 
-
+ <span style="font-family:Papyrus; font-size:4em;">
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
             bom... então se você estava se perguntando o porque de eu ajudar você,
@@ -68,7 +69,8 @@
             ai vai uma dica, sempre quando pensar em desistir, pense no futuro que você deseja ter,
             vai mesmo deixar uma decepção boba dessa acabar com um futuro tão brilhante ?,
             o limite é apenas um substantivo, cabe a você entender isso.
-            
+</span>
+
   > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
             
   > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
@@ -79,16 +81,18 @@
  
 
  <p align="center">
-    <img src="Objetos\Quase.gif" width="480" height="365" align="center">
+    <img src="Objetos\Quase.gif" width="480" height="365" >
  </p>
  
  <p align="center">
    **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
  </p>
    
+  <p align="center">
+      <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
+ </p>           
             
-            
-   <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
+
 
 
 
