@@ -84,8 +84,8 @@
   <span style="font-family:Papyrus; font-size:4em;">
     <p align="center">
     <p> Dicas Importantes: </p>
-     <p>Recomendo sempre olhar a documentação do framework/Linguagem que você está usando,</p>
-        assim se mantem atualizado para os desafio do dia-a-dia da nossa área. ( Sim !!! eles possuem uma documentação oficial)
+     <p>Recomendo sempre olhar a documentação do framework/Linguagem que você está usando,
+       assim se mantem atualizado para os desafio do dia-a-dia da nossa área.</p> ( Sim !!! eles possuem uma documentação oficial)
     </p>
   </span>
   
