@@ -6,7 +6,7 @@
    <img src="Objetos/Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
  
- <span style="font-family:Papyrus; font-size:12em;">
+ <span style="font-family:Papyrus; font-size: 16em;">
   
    Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
    Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
