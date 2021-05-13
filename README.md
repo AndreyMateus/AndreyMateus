@@ -12,7 +12,7 @@
    Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
    Programação para ser mais específico, assim como você !!!, 
    mas enfim... agora que já temos intimade o suficiente para você confiar sua 
-   ida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
+   vida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
 
    Se você está aqui provavelmente você é estudante ou novato na área de programação, 
    caso não seja uma dessas opções você é um curioso,
@@ -105,9 +105,13 @@
     <img src="Objetos\Quase.gif" width="480" height="365" >
  </p>
  
- <p align="center">
-  **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
- </p>
+
+  <span style="font-family:Papyrus; font-size:4em;"
+    <p align="center">
+      BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!
+     </p>
+   </span>
+
    
   <p align="center">
       <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
