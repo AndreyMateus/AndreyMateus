@@ -46,8 +46,8 @@
           Eu escutei muito a seguinte frase:
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
                      
-          EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...
-          
+  
+   <span style="font-family:Papyrus; font-size:4em;"> EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...</span>     
   <p align="center">
     <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
   </p>     
@@ -81,9 +81,12 @@
  <p align="center">
     <img src="Objetos\Quase.gif" width="480" height="365" align="center">
  </p>
+ 
+ <p align="center">
+   **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
+ </p>
    
             
-   **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
             
    <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
 
