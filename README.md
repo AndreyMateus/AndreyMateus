@@ -41,7 +41,7 @@
             Qual a diferença entre por uma imagem  em uma tag <img> ou transformá-la em uma classe no css ?
 
 
-     **E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ?**
+   **E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ?**
 
           Eu escutei muito a seguinte frase:
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
@@ -51,11 +51,7 @@
   <p align="center">
     <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
   </p>     
-       > Colchetes angulares em estilo de e-mail são usados em blocosdecitação.
->> Você também pode aninhá-los.
->>
-> * Você pode citar uma lista.
-> * Etc.
+
 
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
