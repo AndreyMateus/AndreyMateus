@@ -63,8 +63,8 @@
    Qual a diferença entre por uma imagem  em uma tag "img" ou transformá-la em uma classe no css ?
    
    R: Colocar imagens em classes: é interessante quando temos uma imagem de fundo(backgroud). Não é oportuno usar para todas as imagens,
- <p>porque geralmente estas imagens ou o caminho delas ficam armazenados em um banco de dados,</p>
-   Então usamos as classes nas imagens apenas para estilização. 
+      porque geralmente estas imagens ou o caminho delas ficam armazenados em um banco de dados,
+      Então usamos as classes nas imagens apenas para estilização. 
    
 </span><br>
 
