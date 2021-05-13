@@ -47,7 +47,7 @@
                      
           EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...
             
-   <img src="Objetos\GatoReading.gif" width="480" height="280"> <!-- Gif Gato Lendo -->
+   <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
             
        
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
@@ -75,7 +75,7 @@
          
   
             
-   <img src="Objetos\Quase.gif" width="480" height="365">
+   <img src="Objetos\Quase.gif" width="480" height="365" align="center">
    
    
             
