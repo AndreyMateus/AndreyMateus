@@ -6,7 +6,7 @@
    <img src="Objetos/Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
  
- <span style="font-family:Papyrus; font-size:8em;">
+ <span style="font-family:Papyrus; font-size:12em;">
   
    Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
    Fui Bravo 2019 e servi em uma Unidade onde só tinha Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
@@ -81,7 +81,7 @@
   </p>     
  
 
-  <span style="font-family:Papyrus; font-size:4em;">
+  <span style="font-family:Papyrus; font-size:10em;">
     <p align="center">
     <p> Dicas Importantes: </p>
      <p>Recomendo sempre olhar a documentação do framework/Linguagem que você está usando,
@@ -89,7 +89,7 @@
     </p>
   </span>
   
- <span style="font-family:Papyrus; font-size:8em;">
+ <span style="font-family:Papyrus; font-size:12em;">
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
             bom... então se você estava se perguntando o porque de eu ajudar você,
