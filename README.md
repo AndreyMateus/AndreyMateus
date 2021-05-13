@@ -38,13 +38,13 @@
 
    Frameworks e Bibliotecas, qual a diferença ?
    
-   R: Uma Biblioteca já vem  com Classes( vinculadas ), um Framework você tem que "vincular" seja por CDN ou não.
+   R: Uma Biblioteca já vem  com Classes ( vinculadas ), um Framework você tem que "vincular/conectar/Âncorar" seja por CDN ou não.
    
    Oque é responsividade e acessibilidade ?
    
    R: responsividade é a ação do teu site pode se adaptar a qualquer layout, independente do tamanho ou formato.
    
-   R: acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web.
+   R: Acessibilidade na web é a prática de tornar conteúdos e funcionalidades acessíveis a todos os usuários. Ou seja, pessoas com deficiências.
 
    Quando tem um elemento dentro de outro se usa Padding ou Margin ?
    
