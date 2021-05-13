@@ -1,7 +1,7 @@
 ### Bom dia Senhores !  ###
 
-       ** GRUPAMENTO ATENÇÃO!!! **
-           **  GRUPAMENTO SEEEEENTIDO!!! **
+       **GRUPAMENTO ATENÇÃO!!!**
+           **GRUPAMENTO SEEEEENTIDO!!!**
  <p align="center">
    <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
@@ -41,7 +41,7 @@
             Qual a diferença entre por uma imagem  em uma tag <img> ou transformá-la em uma classe no css ?
 
 
-     **  E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ? **
+     **E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ?**
 
           Eu escutei muito a seguinte frase:
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
@@ -82,7 +82,7 @@
  </p>
    
             
-        **    BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!! **
+        **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
             
          <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
 
