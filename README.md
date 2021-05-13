@@ -106,7 +106,7 @@
  </p>
  
 
-  <span style="font-family:Papyrus; font-size:4em;"
+  <span style="font-family:Papyrus; font-size:4em;">
     <p align="center">
       BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!
     </p>
