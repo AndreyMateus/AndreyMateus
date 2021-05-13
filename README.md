@@ -1,7 +1,7 @@
 ### Bom dia Senhores !  ###
 
-        GRUPAMENTO ATENÇÃO!!!
-             GRUPAMENTO SEEEEENTIDO!!!
+       ** GRUPAMENTO ATENÇÃO!!! **
+           **  GRUPAMENTO SEEEEENTIDO!!! **
  <p align="center">
    <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
@@ -41,7 +41,7 @@
             Qual a diferença entre por uma imagem  em uma tag <img> ou transformá-la em uma classe no css ?
 
 
-          E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ? 
+     **  E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ? **
 
           Eu escutei muito a seguinte frase:
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
@@ -68,11 +68,11 @@
             vai mesmo deixar uma decepção boba dessa acabar com um futuro tão brilhante ?,
             o limite é apenas um substantivo, cabe a você entender isso.
             
-            "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
+            > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
             
-            "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
+            > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
             
-            "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio
+            > "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio
 
          
  
@@ -82,7 +82,7 @@
  </p>
    
             
-            BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!
+        **    BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!! **
             
          <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
 
