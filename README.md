@@ -79,7 +79,16 @@
   <p align="center">
     <img src="Objetos\GatoReading.gif" width="480" height="280" > <!-- Gif Gato Lendo -->
   </p>     
+ 
 
+  <span style="font-family:Papyrus; font-size:4em;">
+    <p align="center">
+     Dicas Importantes:
+      Recomendo sempre olhar a documentação do framework/Linguagem que você está usando,
+      assim se mantem atualizado para os desafio do dia-a-dia da nossa área. ( Sim !!! eles possuem uma documentação oficial)
+    </p>
+  </span>
+  
  <span style="font-family:Papyrus; font-size:8em;">
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
