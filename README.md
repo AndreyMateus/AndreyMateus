@@ -51,7 +51,12 @@
   <p align="center">
     <img src="Objetos\GatoReading.gif" width="480" height="280" align="center"> <!-- Gif Gato Lendo -->
   </p>     
-       
+       > Colchetes angulares em estilo de e-mail são usados em blocosdecitação.
+>> Você também pode aninhá-los.
+>>
+> * Você pode citar uma lista.
+> * Etc.
+
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
             bom... então se você estava se perguntando o porque de eu ajudar você,
@@ -70,9 +75,9 @@
             
   > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
             
-            > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
+  > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
             
-            > "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio
+   > "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio
 
          
  
