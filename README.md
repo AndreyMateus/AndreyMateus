@@ -24,19 +24,21 @@
 
    qual a diferença das linguagens de programação ?
    
-   R: Cada Linguagem tem sua própria especificidade.
+   R: Cada Linguagem tem sua própria especificidade, você pode ser bom em correr, ou em tocar piano,
+   digamos que cada uma das linguagens se sai melhor na área que ela é melhor e se destaca.
 
    qual a melhor linguagem ?
    
-   R: isso vai de acordo com o teu projeto.
+   R: isso vai de acordo com o teu projeto, como eu disse acima, cada uma se destaca em alguma área.
 
    Hierarquia de pai e filho, o que é isso ?
    
-   R: é uma organização/ordem na qual alguns comandos tem preferência.
+   R: é uma organização/ordem na qual alguns comandos tem preferência, pense em uma caixa pequena dentro de uma caixa grande,
+   se eu mover a caixa grande a pequena vai junto.
 
    Frameworks e Bibliotecas, qual a diferença ?
    
-   R: Uma Biblioteca já vem ( vinculado ), um Framework você tem que "vincular".
+   R: Uma Biblioteca já vem  com Classes( vinculadas ), um Framework você tem que "vincular" seja por CDN ou não.
    
    Oque é responsividade e acessibilidade ?
    
@@ -46,11 +48,11 @@
 
    Quando tem um elemento dentro de outro se usa Padding ou Margin ?
    
-   R: cada elemento possui sua área individualmente, pense como uma "caixa menor" dentro de uma "caixa maior"
+   R: cada elemento (tag) possui uma área Interna e Externa  individualmente, pense como uma "caixa menor" dentro de uma "caixa maior".
 
    Porque um div dentro de outra torna o elemento filho diferente ?
    
-   R: Porque a tag define uma divisão ou uma seção em um documento HTML, imagine um muro/cerca sendo criado.
+   R: Porque a tag "DIV" define uma divisão ou uma seção em um documento HTML, imagine um muro/cerca sendo criado, Div de Divisão.
 
    Posso por um conteúdo/img/etc em uma coluna, ou invés disso posso transformá-lo em uma coluna (Bootstrap) ?
    
