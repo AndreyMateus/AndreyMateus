@@ -68,7 +68,7 @@
             vai mesmo deixar uma decepção boba dessa acabar com um futuro tão brilhante ?,
             o limite é apenas um substantivo, cabe a você entender isso.
             
-            > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
+  > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
             
             > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
             
