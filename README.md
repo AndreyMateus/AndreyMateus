@@ -38,7 +38,8 @@
 
    Frameworks e Bibliotecas, qual a diferença ?
    
-   R: Uma Biblioteca já vem  com Classes ( vinculadas ), um Framework você tem que "vincular/conectar/Âncorar" seja por CDN ou não.
+   R: Uma Biblioteca já vem  com Classes ( vinculadas ), um Framework você tem que "vincular/conectar/âncorar/linkar" seja por CDN ou não.
+      CDN = Content delivery network ( ‎Rede de entrega de conteúdo‎)
    
    Oque é responsividade e acessibilidade ?
    
@@ -56,7 +57,7 @@
 
    Posso por um conteúdo/img/etc em uma coluna, ou invés disso posso transformá-lo em uma coluna (Bootstrap) ?
    
-   R: Pode as duas coisas, porém para futuras modificações é melhores separar tudo que for possível,
+   R: Pode as duas coisas, porém para futuras modificações é melhor separar tudo que for possível,
       ou seja, deixando uma coluna ser apenas uma coluna, e uma img sendo apenas uma img.
 
    Qual a diferença entre por uma imagem  em uma tag <img> ou transformá-la em uma classe no css ?
