@@ -1,7 +1,7 @@
 ### Bom dia Senhores !  ###
 
-       **GRUPAMENTO ATENÇÃO!!!**
-           **GRUPAMENTO SEEEEENTIDO!!!**
+   **GRUPAMENTO ATENÇÃO!!!**
+             **GRUPAMENTO SEEEEENTIDO!!!**
  <p align="center">
    <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
@@ -83,9 +83,9 @@
  </p>
    
             
-        **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
+   **BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!**
             
-         <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
+   <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
 
 
 
