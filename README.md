@@ -39,7 +39,7 @@
    Frameworks e Bibliotecas, qual a diferença ?
    
    R: Uma Biblioteca já vem  com Classes ( vinculadas ), um Framework você tem que "vincular/conectar/âncorar/linkar" seja por CDN ou não.
-      CDN = Content delivery network ( ‎Rede de entrega de conteúdo‎)
+ <p>  CDN = Content delivery network ( Rede de entrega/distribuição  de conteúdo ) Um Link em sua HEAD de algo hospedado em algum servidor. </p>
    
    Oque é responsividade e acessibilidade ?
    
