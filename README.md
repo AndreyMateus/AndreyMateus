@@ -3,7 +3,7 @@
    **GRUPAMENTO ATENÇÃO!!!**
              **GRUPAMENTO SEEEEENTIDO!!!**
  <p align="center">
-   <img src="Objetos\Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
+   <img src="Objetos/Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
  </P>
  
  <span style="font-family:Papyrus; font-size:8em;">
@@ -77,7 +77,7 @@
    <span style="font-family:Papyrus; font-size:4em;"> EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...</span>    
    
   <p align="center">
-    <img src="Objetos\GatoReading.gif" width="480" height="280" > <!-- Gif Gato Lendo -->
+    <img src="Objetos/GatoReading.gif" width="480" height="280" > <!-- Gif Gato Lendo -->
   </p>     
  
 
@@ -118,7 +118,7 @@
  
 
  <p align="center">
-    <img src="Objetos\Quase.gif" width="480" height="365" >
+    <img src="Objetos/Quase.gif" width="480" height="365" > <!-- Gif Charlie chaplin na guerra-->
  </p>
  
 
@@ -130,7 +130,7 @@
 
    
   <p align="center">
-      <img src="#" width="480" height="270"> <!-- Gif que irá vir aqui-->
+      <img src="Objetos/Han_solo_ate_mais.gif" width="480" height="320"> <!-- Gif Han solo, até mais.-->
  </p>           
             
 
