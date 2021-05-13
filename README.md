@@ -83,7 +83,7 @@
 
   <span style="font-family:Papyrus; font-size:4em;">
     <p align="center">
-     Dicas Importantes:
+     Dicas Importantes: </br>
       Recomendo sempre olhar a documentação do framework/Linguagem que você está usando,
       assim se mantem atualizado para os desafio do dia-a-dia da nossa área. ( Sim !!! eles possuem uma documentação oficial)
     </p>
