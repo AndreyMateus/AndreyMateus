@@ -11,7 +11,7 @@
    Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
    Fui Bravo 2019 e servi em uma Unidade onde só tinham Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
    Programação para ser mais específico, assim como você !!!, 
-   mas enfim... agora que já temos intimade o suficiente para você confiar sua 
+   mas enfim... agora que já temos intimidade o suficiente para você confiar sua 
    vida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
 
    Se você está aqui provavelmente você é estudante ou novato na área de programação, 
