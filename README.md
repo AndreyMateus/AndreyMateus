@@ -53,7 +53,8 @@
 
    Porque um div dentro de outra torna o elemento filho diferente ?
    
-   R: Porque a tag "DIV" define uma divisão ou uma seção em um documento HTML, imagine um muro/cerca sendo criado, Div de Divisão.
+   R: Porque a tag "DIV" define uma divisão ou uma seção em um documento HTML, imagine um muro/cerca sendo criado, Div de Divisão, mas lembre-se que
+      se o conteúdo for 'filho' continuará dentro de seu 'pai', imagine como um terreno com vários lotes, mesmo os lotes separados continuam dentro do terreno.
 
    Posso por um conteúdo/img/etc em uma coluna, ou invés disso posso transformá-lo em uma coluna (Bootstrap) ?
    
