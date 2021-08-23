@@ -114,27 +114,14 @@
   > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
             
    > "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio
-
-         
- 
-
- <p align="center">
-    <img src="Objetos/Quase.gif" width="480" height="365" > <!-- Gif Charlie chaplin na guerra-->
- </p>
- 
-
+      
   <span style="font-family:Papyrus; font-size:4em;">
     <p align="center">
       BONS ESTUDOS E ÓTIMO DIA, COMPAHIA FORAA DE FORMA... MARCH !!!
     </p>
   </span>
 
-   
   <p align="center">
       <img src="Objetos/Han_solo_ate_mais.gif" width="480" height="320"> <!-- Gif Han solo, até mais.-->
  </p>           
             
-
-
-
-
