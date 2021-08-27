@@ -113,7 +113,7 @@
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
             ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
             bom... então se você estava se perguntando o porque de eu ajudar você,
-            é porque eu simplismente me sinto feliz em fazer isso,
+            é porque eu simplesmente me sinto feliz em fazer isso,
             eu adoro aprender com exemplos engraçados, gosto de me divertir aprendendo, você consegue me entender?..., 
             o foco dos meus exemplos serão 100% em Português-BR,
             já há muito conteúdo gringo, além de que a maioria que esta aprendendo não sabe inglês, 
