@@ -62,7 +62,7 @@
    
    Oque é responsividade e acessibilidade ?
    
-   R: responsividade é a ação do teu site pode se adaptar a qualquer layout, independente do tamanho ou formato.
+   R: responsividade é a ação do teu site poder se adaptar a qualquer layout, independente do tamanho ou formato.
    
    R: Acessibilidade na web é a prática de tornar conteúdos e funcionalidades acessíveis a todos os usuários. Ou seja, pessoas com deficiências.
 
