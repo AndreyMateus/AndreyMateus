@@ -1,4 +1,4 @@
-   <img src="Objetos/gif_andrey.gif" width="480" height="320"  style="display: inline_block"> <!-- Meu Gif-->
+
    <div>
     <a href="https://github.com/AndreyMateus">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreymateus&theme=github_dark&show_icons=true"/>
