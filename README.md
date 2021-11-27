@@ -16,16 +16,10 @@
 >"Qualquer tolo escreve um código que um computador possa entender, Bons programadores escrevem códigos que os seres humanos podem entender." -M. Fowler(1999)
 
 ### Bom dia Senhores !  ### 
-   **GRUPAMENTO ATENÇÃO!!!**
-             **GRUPAMENTO SEEEEENTIDO!!!**
- <p align="center">
-   <img src="Objetos/Sentido.gif"  alt="Sentido" width="620" height="480" />  <!-- Gif Motivando o pelotão-->
- </P>
  
  <span>
   
-   Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey,Tenho 21 Anos, 
-   Fui Bravo 2019 e servi em uma Unidade onde só tinham Militares da época da "CASERNA", Atualmente sou estudante na Área de Ti, 
+   Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey, Atualmente sou estudante na Área de Ti, 
    Programação para ser mais específico, assim como você !!!, 
    mas enfim... agora que já temos intimidade o suficiente para você confiar sua 
    vida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
