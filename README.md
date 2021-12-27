@@ -40,16 +40,6 @@
    qual a melhor linguagem ?
    
    R: isso vai de acordo com o teu projeto, como eu disse acima, cada uma se destaca em alguma área.
-
-   Hierarquia de pai e filho, o que é isso ?
-   
-   R: é uma organização/ordem na qual alguns comandos tem preferência, pense em uma caixa pequena dentro de uma caixa grande,
-   se eu mover a caixa grande a pequena vai junto.
-
-   Frameworks e Bibliotecas, qual a diferença ?
-   
-   R: Uma Biblioteca já vem  com Classes ( vinculadas ), um Framework você tem que "vincular/conectar/âncorar/linkar" seja por CDN ou não.
- <p>  CDN = Content delivery network ( Rede de entrega/distribuição  de conteúdo ) Um Link em sua HEAD de algo hospedado em algum servidor. </p>
    
    Oque é responsividade e acessibilidade ?
    
@@ -78,8 +68,6 @@
       Então usamos as classes nas imagens apenas para estilização. 
    
 </span><br>
-
-   **E ENTÃO COMBATENTE, O SENHOR CONSEGUIU SE IDENTIFICAR COM ALGUMAS DESSAS DÚVIDAS, OU VOCÊ É DIFERENTÃO ? HÃÃÃ?**
 
           Eu escutei muito a seguinte frase:
             -Senhores!!!, Quem não tem dúvidas tem dívidas.
