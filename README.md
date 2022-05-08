@@ -89,7 +89,7 @@
   
  <span style="font-family:Papyrus; font-size:12em;">
             Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
-            ganham um sentimento de mérito e gratidão consigo mesma, idependente do tipo de ajuda,
+            ganham um sentimento de mérito e gratidão consigo mesma, independente do tipo de ajuda,
             bom... então se você estava se perguntando o porque de eu ajudar você,
             é porque eu simplesmente me sinto feliz em fazer isso,
             eu adoro aprender com exemplos engraçados, gosto de me divertir aprendendo, você consegue me entender?..., 
