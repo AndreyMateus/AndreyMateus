@@ -14,7 +14,7 @@
  
 >"Qualquer tolo escreve um código que um computador possa entender, Bons programadores escrevem códigos que os seres humanos podem entender." -M. Fowler(1999)
 
-### Bom dia Senhores !  ### 
+### Bom dia Senhores(a) !  ### 
  
  <span>
   
