@@ -29,43 +29,6 @@
    possuo um pouco de experiência e sei como é quando iniciamos, Confuso demais... 
    então eu deixo em meu código linhas de comentários com  algumas explicações.
 
-   Geralmente as dificuldades e dúvidas são:
-
-   qual a diferença das linguagens de programação ?
-   
-   R: Cada Linguagem tem sua própria especificidade, você pode ser bom em correr, ou em tocar piano,
-   digamos que cada uma das linguagens se sai melhor na área que ela é melhor e se destaca.
-
-   qual a melhor linguagem ?
-   
-   R: isso vai de acordo com o teu projeto, como eu disse acima, cada uma se destaca em alguma área.
-   
-   Oque é responsividade e acessibilidade ?
-   
-   R: responsividade é a ação do teu site poder se adaptar a qualquer layout, independente do tamanho ou formato.
-   
-   R: Acessibilidade na web é a prática de tornar conteúdos e funcionalidades acessíveis a todos os usuários. Ou seja, pessoas com deficiências.
-
-   Quando tem um elemento dentro de outro se usa Padding ou Margin ?
-   
-   R: cada elemento (tag) possui uma área Interna e Externa  individual, pense como uma "caixa menor" dentro de uma "caixa maior".
-
-   Porque um div dentro de outra torna o elemento filho diferente ?
-   
-   R: Porque a tag "DIV" define uma divisão ou uma seção em um documento HTML, imagine um muro/cerca sendo criado, Div de Divisão, mas lembre-se que
-      se o conteúdo for 'filho' continuará dentro de seu 'pai', imagine como um terreno com vários lotes, mesmo os lotes separados continuam dentro do terreno.
-
-   Posso por um conteúdo/img/etc em uma coluna, ou invés disso posso transformá-lo em uma coluna (Bootstrap) ?
-   
-   R: Pode as duas coisas, porém para futuras modificações é melhor separar tudo que for possível,
-      ou seja, deixando uma coluna ser apenas uma coluna, e uma img sendo apenas uma img.
-
-   Qual a diferença entre por uma imagem  em uma tag "img" ou transformá-la em uma classe no css ?
-   
-   R: Colocar imagens em classes: é interessante quando temos uma imagem de fundo(backgroud). Não é oportuno usar para todas as imagens,
-      porque geralmente estas imagens ou o caminho delas ficam armazenados em um banco de dados,
-      Então usamos as classes nas imagens apenas para estilização. 
-   
 </span><br>
 
           Eu escutei muito a seguinte frase:
