@@ -2,6 +2,7 @@
  <span>
    Seja Muito Bem Vindo ao meu Perfil, Me chamo Andrey, Moro no interior do RJ, Atualmente sou estudante na Área de Ti, atualmente minhas tecnologias são: .NET | C# | SQL
 </span><br>  
+
   **Tecnologias e Ferramentas já utilizadas por mim:**
  <div> 
    <img src="https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" target="_blank">
@@ -14,14 +15,8 @@
  </br>
  
 >"Qualquer tolo escreve um código que um computador possa entender, Bons programadores escrevem códigos que os seres humanos podem entender." -M. Fowler(1999)
-
-<p></p>
-
-  > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
-            
-  > "O importante não é vencer todos os dias, mas lutar sempre." -Desconhecido
-            
-   > "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio  
+        
+> "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio  
 </br>
 
   <div> 
