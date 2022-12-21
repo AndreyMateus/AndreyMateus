@@ -31,42 +31,6 @@
 
 </span><br>
 
-          Eu escutei muito a seguinte frase:
-            -Senhores!!!, Quem não tem dúvidas tem dívidas.
-                     
-  
-   <span style="font-family:Papyrus; font-size:4em;"> EXCELENTE !!! você chegou até aqui, então vamos continuar ? ...</span>    
-   
-  <p align="center">
-    <img src="Objetos/GatoReading.gif" width="480" height="280" > <!-- Gif Gato Lendo -->
-  </p>     
- 
-
-  <span style="font-family:Papyrus; font-size:10em;">
-    <p align="center">
-    <p> Dicas Importantes: </p>
-     <p>Recomendo sempre olhar a documentação do framework/Linguagem que você está usando,
-       assim se mantem atualizado para os desafio do dia-a-dia da nossa área. ( Sim !!! eles possuem uma documentação oficial)</p>
-    </p>
-  </span>
-  
- <span style="font-family:Papyrus; font-size:12em;">
-            Sabe... Eu pessoalmente acho que as pessoas em geral quando ajudam às outras pessoas,
-            ganham um sentimento de mérito e gratidão consigo mesma, independente do tipo de ajuda,
-            bom... então se você estava se perguntando o porque de eu ajudar você,
-            é porque eu simplesmente me sinto feliz em fazer isso,
-            eu adoro aprender com exemplos engraçados, gosto de me divertir aprendendo, você consegue me entender?..., 
-            o foco dos meus exemplos serão 100% em Português-BR,
-            já há muito conteúdo gringo, além de que a maioria que esta aprendendo não sabe inglês, 
-            De coração eu espero que meus exemplos te ajude,
-            bom qualquer dúvida fique à vontade para esrever uma "Issue" e enviar para mim,
-            é importante ressaltar que no ínicio é normal errarmos, eu mesmo erro até hoje !!!,
-            então... não se decepcione quando algo não der certo,
-            o segredo para conseguir é a gânancia de ver o resultado/evolução, e a persistência de nunca desistir, 
-            ai vai uma dica, sempre quando pensar em desistir, pense no futuro que você deseja ter,
-            vai mesmo deixar uma decepção boba acabar com um futuro tão brilhante ?,
-            o limite é apenas um substantivo ( palavra ), cabe a você entender isso.
-</span>
 <p></p>
 
   > "Para aqueles que estão determinados em voar, não ter asas é apenas um pequeno detalhe". -Desconhecido
