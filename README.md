@@ -2,7 +2,7 @@
  
  <span>
   
-   Seja Muito Bem Vindo ao meu Perfil, Me chamo Andrey, Moro no interior do RJ, Atualmente sou estudante na Área de Ti, atualmente minhas tecnologias são: .NET DEVELOPER | C# | SQL
+   Seja Muito Bem Vindo ao meu Perfil, Me chamo Andrey, Moro no interior do RJ, Atualmente sou estudante na Área de Ti, atualmente minhas tecnologias são: .NET | C# | SQL
 
 </span><br>  
   
