@@ -14,20 +14,11 @@
   
 >"Qualquer tolo escreve um código que um computador possa entender, Bons programadores escrevem códigos que os seres humanos podem entender." -M. Fowler(1999)
 
-### Bom dia Senhores(a) !  ### 
+### Welcome to my profile !  ### 
  
  <span>
   
-   Seja Muito Bem Vindo ao meu Perfil,Vou me apresentar me chamo Andrey, Atualmente sou estudante na Área de Ti, 
-   Programação para ser mais específico, assim como você !!!, 
-   mas enfim... agora que já temos intimidade o suficiente para você confiar sua 
-   vida a mim no "campo de batalha", Vou lhe dizer com oque e como pretendo te ajudar !!!
-
-   Se você está aqui provavelmente você é estudante ou novato na área de programação, 
-   caso não seja uma dessas opções você é um curioso,
-   Assim como você eu sou estudante da área de programação, porém, entretanto, todavia,
-   possuo um pouco de experiência e sei como é quando iniciamos, Confuso demais... 
-   então eu deixo em meu código linhas de comentários com  algumas explicações.
+   Seja Muito Bem Vindo ao meu Perfil, Me chamo Andrey, Moro no interior do RJ, Atualmente sou estudante na Área de Ti, atualmente minhas tecnologias são: .NET DEVELOPER | C# | SQL
 
 </span><br>
 
