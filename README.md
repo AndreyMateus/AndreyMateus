@@ -26,9 +26,9 @@
 
  </br>
  
->"Qualquer tolo escreve um código que um computador possa entender, Bons programadores escrevem códigos que os seres humanos podem entender." -M. Fowler(1999)
+>"Any fool writes code that a computer can understand, Good programmers write code that humans can understand." -M. Fowler(1999)
         
-> "Escolha um trabalho que você ame e não terá que trabalhar um único dia em sua vida."    -Confúcio  
+> "Choose a job you love and you won't have to work a day in your life." -Confúcio  
 </br>
 
   <div> 
