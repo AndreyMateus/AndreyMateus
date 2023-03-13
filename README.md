@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&&text=Andrey+Mateus&fontAlign=50&stroke=00008b&strokeWidth=3&fontAlignY=40&color=gradient" alt="Waving SVG" width="100%">
 </div>
 
-<p align="center">
+<p style="text-align:center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&size=24&duration=4000&pause=1000&color=a36ab8&background=3C37FF00&center=true&&width=435&lines=Welcome+to+my+profile+!;I'm+a+backend+.NET+C%23+Jr+!;" alt="Typing SVG">
 </p>
 
-<div align="center">
+<div style="text-align:center;">
 <strong>My main technologies are:</strong>
 <p>
     <code>
@@ -20,9 +20,9 @@
 
 <br/>
 
-<div align="center">
+<div tyle="text-align:center;">
 <strong>I already used a little:</strong>
-    <p align="center">
+    <p tyle="text-align:center;">
     <code>
         <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="Hypertext Markup language" title="Html5" />
     </code>
@@ -44,7 +44,7 @@
 >"Any fool writes code that a computer can understand, Good programmers write code that humans can understand." 
 > >-M. Fowler(1999)
 
-<div align="center">
+<div style="text-align:center;">
   <a href="https://www.linkedin.com/in/andreymateus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/aandreymateus/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
