@@ -18,7 +18,7 @@
 <br/>
 
 <p align="center">
-  <strong>I already used a little:</strong>
+  <strong>But I also use:</strong>
 </p>
 
 <p align="center">
