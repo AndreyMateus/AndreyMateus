@@ -12,44 +12,44 @@
 
 <p align="center">
 <code>
-    <img height="50" src="./icons_tecnologias/html5-svgrepo-com.svg" alt="Hypertext Markup language" title="Html5" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/css3-svgrepo-com.svg" alt="Cascating cheat style" title="Css3" />
-  </code>
-  <code>
-   <img height="50" src="./icons_tecnologias/javascript-svgrepo-com.svg" alt="JavaScript" title="JavaScript/EcmaScript" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/bootstrap-svgrepo-com.svg" alt="Bootstrap" title="Bootstrap" />
-  </code>
-   <code>
-    <img height="50" src="./icons_tecnologias/reactjs-svgrepo-com.svg" alt="React" title="React" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/dot-net-svgrepo-com.svg" alt="plataform dotnet" title="dotnet" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/aspnet-svgrepo-com.svg" alt="aspnet" title="aspnet" />
-  </code>
-  <code>
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" title="Csharp" />
-  </code>
-   <code>
-    <img height="50" src="./icons_tecnologias/Ef-core-img-png.png" alt="Entity Framework Core" title="Entity Framework Core" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Transaction Sql" title="Transaction Sql" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/microsoftsqlserver-svgrepo-com.svg" alt="SqlServer" title="SqlServer" />
-  </code>
-  <code>
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" />
-  </code>
-  <code>
-    <img height="50" src="./icons_tecnologias/xunit.jpg" alt="Xunit" title="Xunit" />
-  </code>
+<img height="50" src="./icons_tecnologias/html5-svgrepo-com.svg" alt="Hypertext Markup language" title="Html5" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/css3-svgrepo-com.svg" alt="Cascating cheat style" title="Css3" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/javascript-svgrepo-com.svg" alt="JavaScript" title="JavaScript/EcmaScript" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/bootstrap-svgrepo-com.svg" alt="Bootstrap" title="Bootstrap" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/reactjs-svgrepo-com.svg" alt="React" title="React" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/dot-net-svgrepo-com.svg" alt="plataform dotnet" title="dotnet" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/aspnet-svgrepo-com.svg" alt="aspnet" title="aspnet" />
+</code>
+<code>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="Csharp" title="Csharp" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/Ef-core-img-png.png" alt="Entity Framework Core" title="Entity Framework Core" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Transaction Sql" title="Transaction Sql" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/microsoftsqlserver-svgrepo-com.svg" alt="SqlServer" title="SqlServer" />
+</code>
+<code>
+<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" />
+</code>
+<code>
+<img height="50" src="./icons_tecnologias/xunit.jpg" alt="Xunit" title="Xunit" />
+</code>
 
 
 
