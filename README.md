@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./gif.gif" style="width: 100%; height: 360px;">
-</div>
-
 <p align="center">
   <strong>Technologies</strong>
 </p>
