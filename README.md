@@ -1,10 +1,6 @@
-<div style="width: 100%;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&&text=Andrey+Mateus&fontAlign=50&stroke=00008b&strokeWidth=3&fontAlignY=40&color=gradient" alt="Waving SVG" width="100%">
+<div align="center">
+  <img src="./gif.gif" style="width: 100%; height: 360px;">
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Unbounded&size=24&duration=4000&pause=1000&color=a36ab8&background=3C37FF00&center=true&&width=435&lines=Welcome+to+my+profile+!;I'm+a+Fullstack+.NET+C%23+Jr+!;" alt="Typing SVG">
-</p>
 
 <p align="center">
   <strong>Technologies</strong>
@@ -41,4 +37,3 @@
   <a href="https://www.instagram.com/aandreymateus/" target="_blank"><img height="44" src="./icons_social/instagram-1-svgrepo-com.svg" target="_blank"></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&fontAlign=50&fontAlignY=40&color=gradient&section=footer" alt="Waving SVG" width="100%">
