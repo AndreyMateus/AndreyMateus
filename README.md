@@ -14,7 +14,7 @@
   <code><img height="50" src="./icons_tecnologias/Ef-core-img-png.png" alt="Entity Framework Core" title="Entity Framework Core" /></code>
   <code><img height="50" src="./icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Transaction Sql" title="Transaction Sql" /></code>
   <code><img height="50" src="./icons_tecnologias/microsoftsqlserver-svgrepo-com.svg" alt="SqlServer" title="SqlServer" /></code>
-  <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" /></code>
+<!--   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" /></code> -->
   <code><img height="50" src="./icons_tecnologias/xunit.jpg" alt="Xunit" title="Xunit" /></code>
 </p>
 
