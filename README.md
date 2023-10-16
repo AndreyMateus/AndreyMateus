@@ -11,8 +11,7 @@
 <!--   <code><img height="50" src="./icons_tecnologias/dot-net-svgrepo-com.svg" alt="plataform dotnet" title="dotnet" /></code> -->
   <code><img height="50" src="./icons_tecnologias/csharp-svgrepo-com.svg" alt="Csharp" title="Csharp" /></code>
   <code><img height="50" src="./icons_tecnologias/python.svg" alt="Python" title="Python" /></code>
-  <code><img height="50" src="./icons_tecnologias/microsoftsqlserver-svgrepo-com.svg" alt="SqlServer" title="SqlServer" /></code>
-<!--   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" /></code> -->
+  <code><img height="50" src="./icons_tecnologias/icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Sql" title="Sql" /></code>
 </p>
 
 <br/>
