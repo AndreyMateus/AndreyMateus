@@ -10,9 +10,9 @@
 <!--   <code><img height="50" src="./icons_tecnologias/reactjs-svgrepo-com.svg" alt="React" title="React" /></code> -->
 <!--   <code><img height="50" src="./icons_tecnologias/dot-net-svgrepo-com.svg" alt="plataform dotnet" title="dotnet" /></code> -->
   <code><img height="50" src="./icons_tecnologias/csharp-svgrepo-com.svg" alt="Csharp" title="Csharp" /></code>
-  <code><img height="50" src="./icons_tecnologias/" alt="Python" title="Python" /></code>
+  <code><img height="50" src="./icons_tecnologias/python.svg" alt="Python" title="Python" /></code>
   <code><img height="50" src="./icons_tecnologias/microsoftsqlserver-svgrepo-com.svg" alt="SqlServer" title="SqlServer" /></code>
-<!--   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" /></code> -->->
+<!--   <code><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" title="Mysql" /></code> -->
 </p>
 
 <br/>
