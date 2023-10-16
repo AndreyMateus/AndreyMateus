@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Technologies</strong>
+<!--   <strong>Technologies</strong> -->
 </p>
 
 <p align="center">
