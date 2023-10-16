@@ -26,10 +26,3 @@
 </blockquote>
 
 <br/>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/andreymateus/" target="_blank"><img height="48" src="./icons_social/linkedin-svgrepo-com.svg"></a>
-  <a href="https://www.instagram.com/aandreymateus/" target="_blank"><img height="44" src="./icons_social/instagram-1-svgrepo-com.svg" target="_blank"></a>
-</p>
-
