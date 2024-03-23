@@ -8,9 +8,10 @@
   <code><img height="50" src="./icons_tecnologias/javascript-svgrepo-com.svg" alt="JavaScript" title="JavaScript/EcmaScript" /></code>
   <code><img height="50" src="./icons_tecnologias/bootstrap-svgrepo-com.svg" alt="Bootstrap" title="Bootstrap" /></code>
 <!--   <code><img height="50" src="./icons_tecnologias/reactjs-svgrepo-com.svg" alt="React" title="React" /></code> -->
-  <code><img height="50" src="./icons_tecnologias/csharp-svgrepo-com.svg" alt="Csharp" title="Csharp" /></code>
-<!--   <code><img height="50" src="./icons_tecnologias/python-svgrepo-com.svg" alt="Python" title="Python" /></code> -->
+  <code><img height="50" src="./icons_tecnologias/node.svg" alt="Node" title="Node" /></code>
+  <code><img height="50" src="./icons_tecnologias/mongodb.svg" alt="MongoDB" title="MongoDB" /></code>
   <code><img height="50" src="./icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Sql" title="Sql" /></code>
+  <code><img height="50" src="./icons_tecnologias/csharp-svgrepo-com.svg" alt="Csharp" title="Csharp" /></code>
 </p>
 
 <br/>
