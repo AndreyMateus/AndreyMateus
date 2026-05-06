@@ -10,7 +10,7 @@
 <code><img src="./icons_tecnologias/reactjs-svgrepo-com.svg" alt="React" title="React" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/typescript_icon.svg" alt="Typescript" title="Typescript" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/node.svg" alt="Node" title="Node" height="30" width="30" /></code>
-<code><img src="./icons_tecnologias/php.svg" alt="Php" title="Php" height="30" width="30" /></code>
+<code><img src="./icons_tecnologias/PHP.svg" alt="Php" title="Php" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/Laravel.svg" alt="Laravel" title="Laravel" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Sql" title="Sql" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/Git.svg" alt="Git" title="Git" height="30" width="30" /></code>
