@@ -1,3 +1,9 @@
+<h1 align="center">Olá, eu sou Andrey 👋</h1>
+
+<p align="center">
+Desenvolvedor Full Stack Júnior apaixonado por entender como a tecnologia funciona por trás dos bastidores.
+</p>
+
 <p align="center">
 <!--   <strong>Technologies</strong> -->
 </p>
@@ -9,7 +15,7 @@
 <code><img src="./icons_tecnologias/javascript-svgrepo-com.svg" alt="JavaScript" title="JavaScript/EcmaScript" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/reactjs-svgrepo-com.svg" alt="React" title="React" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/typescript_icon.svg" alt="Typescript" title="Typescript" height="30" width="30" /></code>
-<code><img src="./icons_tecnologias/node.svg" alt="Node" title="Node" height="30" width="30" /></code>
+<!-- <code><img src="./icons_tecnologias/node.svg" alt="Node" title="Node" height="30" width="30" /></code> -->
 <code><img src="./icons_tecnologias/PHP.svg" alt="Php" title="Php" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/Laravel.svg" alt="Laravel" title="Laravel" height="30" width="30" /></code>
 <code><img src="./icons_tecnologias/sql-database-generic-svgrepo-com.svg" alt="Sql" title="Sql" height="30" width="30" /></code>
@@ -17,10 +23,5 @@
 </p>
 
 <br/>
-
-<blockquote align="center">
-  <p>"Qualquer tolo escreve código que um computador consegue entender. Bons programadores escrevem código que humanos conseguem entender."</p>
-  <footer>-M. Fowler(1999)</footer>
-</blockquote>
 
 <br/>
